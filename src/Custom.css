@@ -1,0 +1,30 @@
+ input{
+   
+    padding: 11px;
+    font-size: 14px;
+    margin-right: 5px;
+    border-radius: .3rem;
+}
+h1{
+    font-size: 50px;
+    color: red;
+}
+.Unorderlist{
+    list-style: number;
+    padding-left: 0px;
+    list-style: decimal;
+}
+.TodoListMain{
+    margin-left: 25%;
+    margin-top: 40px;
+
+}
+li{
+    margin: 10px;
+    background-color: aliceblue;
+    padding: 7px;
+    font-size: 20px;
+}
+form{
+    padding-top: 10px
+}
